@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<SKILLS>
+
+               <Test_case>basic<[D[D[C[CTest_case>[D[D[D[D[D[D[D[D[D[D/[C[C[C[C[C[/Test_case>
+               <Check_list>basic</Check_list>
+               <Bug_Reporting>basic</Bug_Reporting>
+               <Smoke>basic</Smoke>
+               <Critical_Path>basic</Critical_Path>
+               <Regression>basic</Regression>
+               <Web>basic</Web>
+               <Mobile>basic</Mobile>
+               <Test_disain>basic</Test_disain>
+               <HTTP/HTTPS>basic</HTTP/HTTPS>
+               <DevTools>basic</DevTools>
+               <Test_API>basic</Test_API>
+               <Postman>basic</Postman>
+               <SQL>basic</SQL>
+               <JavaScript>basic</JavaScript>
+               <Terminal>basic</Terminal>
+
+</SKILLS>
