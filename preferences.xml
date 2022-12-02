@@ -2,10 +2,9 @@
 
 <PREFERENCES>
 
-[A[A[C[C[C[C[C[C[C[C[references[C[B[B[D[D[D[D[D[D[D[D[C[C[C[C[C[C[C[C[C[C[C[C<Favorite movie>[D[D[D[D[D[[[C[C[C[C_movie[C[C[DLord of the Rings</Favorite_movie>
-[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C<Favorite_TV_show>Sex education</Favorite_TV_show>
-[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[D[D<Favorite_food>Burger</Favorite_food>
-[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[D[D<Favorite_time_of_year<Summer>[D[D[D[D[D[D[>[C[C[C[C[C[C[<[A[D[D[D[D[D[D[D[D[A[B[C[C[C[C[C[C[C[B[CFavorite_time_of_year>
-[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[D[D<Country_you_would_like_to_visit>Spain<Country_you_would_like_to_visit>[A[C[C[C[C[C[C[C[C[C[[B[D[D[[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
-[A[C[C[C[C[C[C[C[C[C[C[C[D[D<Country_you_would_like_to_visit>Spain<Country_you_would_like_to_visit>[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[A[D[D[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[/Favo<Country_you_would_like_to_visit>Spain</Country_you_would_like_to_visit>
+                                 <Favorite_movie>Lord of the Rings</Favorite_movie>
+                                 <Favorite_TV_show>The Boys</Favorite_TV_show>
+                                 <Favorite_food>Burger</Favorite_food>
+                                 <Favorite_time_of_year>Summer</Favorite_time_of_year>
+                                 <Country_you_would_like_to_visit>Spain</Country_you_would_like_to_visit>
 </PREFERENCES>
