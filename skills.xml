@@ -2,21 +2,21 @@
 
 <SKILLS>
 
-               <Test_case>basic</Test_case>
-               <Check_list>basic</Check_list>
-               <Bug_Reporting>basic</Bug_Reporting>
-               <Smoke>basic</Smoke>
-               <Critical_Path>basic</Critical_Path>
-               <Regression>basic</Regression>
-               <Web>basic</Web>
-               <Mobile>basic</Mobile>
-               <Test_disain>basic</Test_disain>
-               <HTTP_HTTPS>basic</HTTP_HTTPS>
-               <DevTools>basic</DevTools>
-               <Test_API>basic</Test_API>
-               <Postman>basic</Postman>
-               <SQL>basic</SQL>
-               <JavaScript>basic</JavaScript>
-               <Terminal>basic</Terminal>
+               <skills>Test-case</skills>
+               <skills>Check-list</skills>
+               <skills>Bug-Reporting</skills>
+               <skills>Smoke</skills>
+               <skillsh>Critical Path</skills>
+               <skills>Regression</skills>
+               <skills>Web</skills>
+               <skills>Mobile</skills>
+               <skills>Test-disain</skills>
+               <skills>HTTP/HTTPSc</skills>
+               <skills>DevTools</skills>
+               <skills>Test API</skills>
+               <skills>Postman</skills>
+               <skills>SQL</skills>
+               <skills>JavaScript</skills>
+               <skills>Terminal</skillsl>
 
 </SKILLS>
