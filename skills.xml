@@ -2,7 +2,7 @@
 
 <SKILLS>
 
-               <Test_case>basic<[D[D[C[CTest_case>[D[D[D[D[D[D[D[D[D[D/[C[C[C[C[C[/Test_case>
+               <Test_case>basic</Test_case>
                <Check_list>basic</Check_list>
                <Bug_Reporting>basic</Bug_Reporting>
                <Smoke>basic</Smoke>
@@ -11,7 +11,7 @@
                <Web>basic</Web>
                <Mobile>basic</Mobile>
                <Test_disain>basic</Test_disain>
-               <HTTP/HTTPS>basic</HTTP/HTTPS>
+               <HTTP_HTTPS>basic</HTTP_HTTPS>
                <DevTools>basic</DevTools>
                <Test_API>basic</Test_API>
                <Postman>basic</Postman>
